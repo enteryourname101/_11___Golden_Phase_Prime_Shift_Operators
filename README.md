@@ -1,3 +1,7 @@
+> This repository is part of the **Quansistor Field Computing (QFC)** corpus.
+>
+> Canonical entry point:
+> https://github.com/101researchgroup
 # Golden-Phase Prime-Shift Operators  
 ### Gauge-Twisted Arithmetic Dynamics
 
